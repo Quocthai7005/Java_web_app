@@ -1,1 +1,1 @@
-this is second text
+text in master firstthis is second text
